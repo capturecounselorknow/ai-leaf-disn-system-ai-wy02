@@ -1,4 +1,4 @@
-# 
+# Ultimato AI leaf disease detection system plugins. Com treinamento de modelos e IA em nuvem — otimizado para máximo desempenho.
 
 
 
